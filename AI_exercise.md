@@ -1,6 +1,6 @@
 # A Simple Guide to Self-Care: De-stress techniques
 
-## Benefits of De-stress routine
+## Benefits of De-stress Routine
 
 Regular de-stress practices help prevent burnout, improve sleep quality, and boost mental clarity. Research shows that managing stress strengthens your immune system, enhances decision-making, and promotes better relationships. By incorporating stress management into your daily life, you're investing in both short-term relief and long-term health benefits.
 
@@ -57,6 +57,7 @@ Tools and support:
 - Community: Local stress management groups or online forums
 - Professional support: When to consider working with a stress management coach
 
+![Calm and Headspace logos](/Images/headspace-calm-logos.jpg "Calm and Headspace logos")
 
 | Category | Free Options | Premium Options |
 |--------|----------|----------------------|
