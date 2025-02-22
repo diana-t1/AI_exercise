@@ -32,11 +32,11 @@ Build these practices into your routine:
 ### Morning Routine Map
 
 ```mermaid
-graph TD;
-    Wake Up-->Light Exposure
-    Light Exposure-->Breathing Practice
-    Breathing Practice-->Movement
-    Movement-->Ready for Day
+graph TD
+    A[Wake Up] --> B[Light Exposure];
+    B --> C[Breathing Practice];
+    C --> D[Movement];
+    D --> E[Ready for Day];
 ```
 
 ## Environment
