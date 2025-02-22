@@ -33,10 +33,10 @@ Build these practices into your routine:
 
 ```mermaid
 graph TD;
-    Wake Up --> Light Exposure
-    Light Exposure --> Breathing Practice
-    Breathing Practice --> Movement
-    Movement --> Ready for Day
+    Wake Up-->Light Exposure
+    Light Exposure-->Breathing Practice
+    Breathing Practice-->Movement
+    Movement-->Ready for Day
 ```
 
 ## Environment
